@@ -1,0 +1,8 @@
+2023-04-02 22:22:26.886253 - Initialized conversion of CBT174
+2023-04-02 22:22:26.970424 - Received CBT.V504.FILE174.PDS from FILE174.XMI 
+2023-04-02 22:22:26.973166 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE174.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:22:26.974249 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE174.PDS, moved to PDS/$$NOTE1
+2023-04-02 22:22:26.975335 - Found @FILE174.txt (text/plain) in CBT.V504.FILE174.PDS, moved to PDS/@FILE174
+2023-04-02 22:22:26.976340 - Found DOC.txt (text/plain) in CBT.V504.FILE174.PDS, moved to PDS/DOC
+2023-04-02 22:22:26.977342 - Found JCL.jcl (text/plain) in CBT.V504.FILE174.PDS, moved to PDS/JCL
+2023-04-02 22:22:26.978461 - Found TAPECOPY.txt (text/plain) in CBT.V504.FILE174.PDS, moved to PDS/TAPECOPY
