@@ -1,0 +1,7 @@
+2025-04-13 14:29:42.695142 - Received CBT.V505.FILE174.PDS from FILE174.XMI 
+2025-04-13 14:29:42.696000 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE174.PDS, moved to PDS/$$$#DATE
+2025-04-13 14:29:42.696073 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE174.PDS, moved to PDS/$$NOTE1
+2025-04-13 14:29:42.696135 - Found @FILE174.txt (text/plain) in CBT.V505.FILE174.PDS, moved to PDS/@FILE174
+2025-04-13 14:29:42.696198 - Found DOC.txt (text/plain) in CBT.V505.FILE174.PDS, moved to PDS/DOC
+2025-04-13 14:29:42.696253 - Found JCL.jcl (text/plain) in CBT.V505.FILE174.PDS, moved to PDS/JCL
+2025-04-13 14:29:42.696433 - Found TAPECOPY.txt (text/plain) in CBT.V505.FILE174.PDS, moved to PDS/TAPECOPY
